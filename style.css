@@ -68,3 +68,45 @@
 }
 /* ------------------header ends here-------------------------- */
 /* ------------------main starts here-------------------------- */
+main{
+    margin-left: 141px;
+}
+.main_sec{
+    margin-top: 116px;
+    margin-bottom: 116px;
+    display: flex;
+    justify-content: space-between;
+}
+.p2_cl{
+    width: 517px;
+    height: 49px;
+    font-size: 42px;
+    font-weight: 700;
+    color: #252432;
+    margin-bottom: 23px;
+}
+.p3_cl{
+    width: 517px;
+    height: 60px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #252432;
+    margin-bottom: 23px;
+}
+.btn_3{
+    /* width: 229px; */
+    height: 48px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    padding: 12px 36px;
+    border: none;
+    border-radius: 10px;
+}
+.img_1{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+    margin-right: 159px;
+}
