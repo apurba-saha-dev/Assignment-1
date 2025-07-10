@@ -20,21 +20,24 @@
     background-size: cover;
     height: 698px;
 }
-.div_1{
+
+.div_1 {
     padding-top: 50px;
     margin-left: 150px;
     margin-right: 150px;
     display: flex;
     justify-content: space-between;
 }
-.h4_logo{
+
+.h4_logo {
     width: 99px;
     height: 51px;
     font-size: 34px;
     font-weight: 900;
     color: #4E47FF;
 }
-.btn_1{
+
+.btn_1 {
     width: 132px;
     height: 48px;
     font-size: 16px;
@@ -45,7 +48,8 @@
     border: none;
     border-radius: 10px;
 }
-.div_2{
+
+.div_2 {
     /* margin-top: 309px; */
     width: 905px;
     height: 152px;
@@ -53,9 +57,10 @@
     font-weight: 700;
     color: #252432;
     text-align: center;
-    margin: 158px auto ;
+    margin: 158px auto;
 }
-.btn_2{
+
+.btn_2 {
     /* width: 174px; */
     height: 48px;
     font-size: 16px;
@@ -66,18 +71,21 @@
     border: none;
     border-radius: 10px;
 }
+
 /* ------------------header ends here-------------------------- */
 /* ------------------main starts here-------------------------- */
-main{
+main {
     margin-left: 141px;
 }
-.main_sec{
+
+.main_sec {
     margin-top: 116px;
     margin-bottom: 116px;
     display: flex;
     justify-content: space-between;
 }
-.p2_cl{
+
+.p2_cl {
     width: 517px;
     height: 49px;
     font-size: 42px;
@@ -85,7 +93,8 @@ main{
     color: #252432;
     margin-bottom: 23px;
 }
-.p3_cl{
+
+.p3_cl {
     width: 517px;
     height: 60px;
     font-size: 24px;
@@ -93,7 +102,8 @@ main{
     color: #252432;
     margin-bottom: 23px;
 }
-.btn_3{
+
+.btn_3 {
     /* width: 229px; */
     height: 48px;
     font-size: 16px;
@@ -104,9 +114,44 @@ main{
     border: none;
     border-radius: 10px;
 }
-.img_1{
+
+.img_1 {
     width: 403px;
     height: 328px;
     border-radius: 48px;
     margin-right: 159px;
+}
+
+.productive_users {
+    /* width: 1140px; */
+    height: 306px;
+    border-radius: 24px;
+    background-color: #4d47ff34;
+    margin-right: 159px;
+    text-align: center;
+    margin-bottom: 137px;
+}
+.p4_cl {
+    font-size: 38px;
+    font-weight: 700;
+    color: #252432;
+    padding-top: 50px;
+}
+.common_p{
+    font-size: 80px;
+    font-weight: 700;
+    color: #4E47FF;
+}
+.common_des{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+}
+.div_4{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: end;
+    width: 100%;
+    margin-top: 40px;
 }
