@@ -316,4 +316,10 @@ main {
 }
 /* --------------------------------------------------------------get in touch section ends here */
 /* ------------------------------------------------------------------footer section starts here */
-
+.btn_1:hover,
+.btn_2:hover,
+.btn_3:hover,
+.btn_4:hover,
+.btn_5:hover {
+  background-color: #3edd2f;
+}
