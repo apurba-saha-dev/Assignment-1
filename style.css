@@ -76,6 +76,7 @@
 /* ------------------main starts here-------------------------- */
 main {
     margin-left: 141px;
+    background-color: #F5F8FF;
 }
 
 .main_sec {
@@ -156,11 +157,9 @@ main {
     margin-top: 40px;
 }
 /*  */
-
+/* ----------------------------------------------------------------ratings section starts here */
 .ratings_main{
-    /* text-align: center; */
     margin-right: 159px;
-
 }
 .ratings_sub_div{
     background-color: white;
@@ -216,4 +215,48 @@ main {
     font-size: 16px;
     font-weight: 400;
     color: #B3B3B3;
+}
+/* ----------------------------------------------------------------ratings section ends here */
+/* ----------------------------------------------------------------focus better section starts here */
+.sec_focus{
+    text-align: center;
+    background-color: white;
+    border-radius: 14px;
+    margin-right: 159px;
+    margin-bottom: 92.23px;
+
+}
+.p5_cl{
+    font-size: 50px;
+    font-weight: 700;
+    color: #000000;
+    padding-top: 71px;
+    margin-bottom: 20px;
+}
+.p6_cl{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+.btn_4{
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    padding: 12px 36px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.img_3{
+    width: 840px;
+    border-radius: 48px;
+    margin-bottom: 71px;
+}
+/* ----------------------------------------------------------------focus better section ends here */
+/* --------------------------------------------------------------get in touch section starts here */
+.p7_cl{
+
 }
