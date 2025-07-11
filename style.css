@@ -321,5 +321,40 @@ main {
 .btn_3:hover,
 .btn_4:hover,
 .btn_5:hover {
-  background-color: #3edd2f;
+    color: #000000;
+    cursor: pointer;
+    transition: color 0.3s ease;
+background-color: #7bff47;}
+
+.footer_main{
+    text-align: center;
 }
+.p8_cl{
+    font-size: 100px;
+    font-weight: 900;
+    color: #4E47FF;
+    padding-top: 104px;
+    margin-bottom: 8px;
+}
+.p9_cl{
+    font-size: 16px;
+    font-weight: 400;
+    color: #8987A1;
+    max-width: 531px;
+    margin: 0 auto;
+}
+.p10_cl{
+    font-size: 16px;
+    font-weight: 400;
+    color: #8987A1;
+    max-width: 531px;
+    margin: 0 auto;
+    margin-top: 20px;
+    list-style: none;
+    margin-bottom: 103px;
+    display: flex; 
+    justify-content: center;
+    gap: 40px;      
+
+}
+
