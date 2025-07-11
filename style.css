@@ -328,6 +328,7 @@ background-color: #7bff47;}
 
 .footer_main{
     text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 .p8_cl{
     font-size: 100px;
